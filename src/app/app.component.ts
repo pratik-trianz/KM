@@ -10,5 +10,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
 
   isActive:boolean = true;
+  test:string;
 
 }
